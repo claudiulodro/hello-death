@@ -1,11 +1,11 @@
-=== Hello Dolly ===
-Contributors: matt
+=== Hello Death ===
+Contributors: matt, claudiulodro
 Requires at least: 3.0
 Stable tag: 1.6
 Tested up to: 4.1
 
-This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong.
+The Bhutanese say think about death 5 times a day and you will be happy. Now you can do that while managing your WordPress site.
 
 == Description ==
 
-This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly</cite> in the upper right of your admin screen on every page.
+The Bhutanese say think about death 5 times a day and you will be happy. Now you can do that while managing your WordPress site. When activated you will see <cite>You are going to die.</cite> in the upper right of your admin screen on every page.
